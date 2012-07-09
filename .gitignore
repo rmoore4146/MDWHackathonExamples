@@ -1,0 +1,8 @@
+# Project files #
+#################
+*.iml
+
+\target
+\gen
+\bin
+\.settings
