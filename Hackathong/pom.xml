@@ -19,6 +19,11 @@
             <name>central</name>
             <url>https://maven-android-archetype.googlecode.com/svn/repository</url>
         </repository>
+        <repository>
+            <id>googlecode-ksoap2-android</id>
+            <name>googlecode-ksoap2-android</name>
+            <url>http://ksoap2-android.googlecode.com/svn/m2-repo</url>
+        </repository>
 
     </repositories>
 
@@ -29,9 +34,11 @@
             <version>2.3.3</version>
             <scope>provided</scope>
         </dependency>
-
-
-
+        <dependency>
+            <groupId>com.google.code.ksoap2-android</groupId>
+            <artifactId>ksoap2-android</artifactId>
+            <version>2.6.5</version>
+        </dependency>
         <!--
         ===================================
         GOOGLE MAPS DEPENDENCY
