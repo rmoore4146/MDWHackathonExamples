@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.google.code.ksoap2-android:ksoap2-j2se:2.6.5">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/ksoap2-android/ksoap2-j2se/2.6.5/ksoap2-j2se-2.6.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/ksoap2-android/ksoap2-j2se/2.6.5/ksoap2-j2se-2.6.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/ksoap2-android/ksoap2-j2se/2.6.5/ksoap2-j2se-2.6.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

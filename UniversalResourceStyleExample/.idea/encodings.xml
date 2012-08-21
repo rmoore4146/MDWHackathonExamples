@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/../../sts-workspace/VBMSP2/vbms-bl-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../sts-workspace/VBMSP2/vbms-cms-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../sts-workspace/VBMSP2/vbms-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../sts-workspace/VBMSP2/vbms-common-aspects" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../sts-workspace/VBMSP2/vbms-dal-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../sts-workspace/VBMSP2/vbms-dal-db" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../sts-workspace/VBMSP2/vbms-dal-ecm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../sts-workspace/VBMSP2/vbms-dal-impl-orchestration" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../sts-workspace/VBMSP2/vbms-installer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../sts-workspace/VBMSP2/vbms-integration-tests" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../sts-workspace/VBMSP2/vbms-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../sts-workspace/VBMSP2/vbms-pdfviewer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../sts-workspace/VBMSP2/vbms-perf-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../sts-workspace/VBMSP2/vbms-security-authz" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../sts-workspace/VBMSP2/vbms-security-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../sts-workspace/VBMSP2/vbms-security-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../sts-workspace/VBMSP2/vbms-security-services" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../sts-workspace/VBMSP2/vbms-stinger-module" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../sts-workspace/VBMSP2/vbms-transform" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../sts-workspace/VBMSP2/vbms-ui-app" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../sts-workspace/VBMSP2/vbms-ui-web" charset="UTF-8" />
+  </component>
+</project>
+
